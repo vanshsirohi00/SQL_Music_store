@@ -89,7 +89,7 @@ This project helped in strengthening practical SQL and data analysis skills by s
 
 ## Connect With Me
 
-* LinkedIn:linkedin.com/in/vanshsirohi00
+LinkedIn:linkedin.com/in/vanshsirohi00
 
 
 
@@ -97,4 +97,3 @@ This project helped in strengthening practical SQL and data analysis skills by s
 
 
 
-LinkedIn: linkedin.com/in/vanshsirohi00
